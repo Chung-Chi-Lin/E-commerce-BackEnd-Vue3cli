@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import emitter from '@/methods/mitt';
+import emitter from '@/methods/emitter';
 import ToastMessages from '@/components/ToastMessages.vue';
 import Navbar from '../components/NavbarComponent.vue';
 
